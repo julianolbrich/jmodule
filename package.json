@@ -9,5 +9,8 @@
     "randomnumber",
     "npmpackage",
     "goodygoody"
-  ]
+  ],
+  "dependencies": {
+    "@thegoodygoody/jmodule": "^6.0.0"
+  }
 }

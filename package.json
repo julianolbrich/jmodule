@@ -1,12 +1,12 @@
 {
-  "name": "@thegoodygoody/jmodule",
-  "version": "5.0.0",
+  "name": "@thegoodygoody/randomnumbermodule",
+  "version": "6.0.0",
   "description": "Gibt beim Aufruf 6 unterschiedliche Zufallszahlen in einem Array aus.",
   "license": "MIT",
   "repository": "julianolbrich/jmodule",
   "main": "index.js",
   "keywords": [
-    "jmodule",
+    "randomnumber",
     "npmpackage",
     "goodygoody"
   ]

@@ -3,7 +3,10 @@
   "version": "8.0.0",
   "description": "Gibt beim Aufruf 6 unterschiedliche Zufallszahlen in einem Array aus.",
   "license": "MIT",
-  "repository": "julianolbrich/jmodule",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianolbrich/jmodule.git"
+  },
   "main": "index.js",
   "keywords": [
     "randomnumber",
@@ -12,5 +15,14 @@
   ],
   "dependencies": {
     "@thegoodygoody/jmodule": "^6.0.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/julianolbrich/jmodule/issues"
+  },
+  "homepage": "https://github.com/julianolbrich/jmodule#readme",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": ""
 }

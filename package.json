@@ -1,6 +1,6 @@
 {
   "name": "@thegoodygoody/randomnumbermodule",
-  "version": "6.0.0",
+  "version": "7.0.0",
   "description": "Gibt beim Aufruf 6 unterschiedliche Zufallszahlen in einem Array aus.",
   "license": "MIT",
   "repository": "julianolbrich/jmodule",
